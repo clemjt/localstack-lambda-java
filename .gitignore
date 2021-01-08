@@ -1,0 +1,20 @@
+.DS_Store
+.factorypath
+
+*.class
+target
+/bin/
+/.settings/
+.project
+.classpath
+
+# NodeJs dependencies
+node_modules
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Serverless directories
+.serverless
